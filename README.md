@@ -1,7 +1,7 @@
 godocs-docker
 =============
 
-Docker container to server up godocs
+Docker container to serve up godocs
 
 Pull from the Docker registry:
 
